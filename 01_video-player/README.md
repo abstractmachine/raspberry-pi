@@ -156,7 +156,7 @@ If you want to play the video upside-down, use `--orientation 180`.
 ## Auto-start Your Video After System Startup
 We want our video to play on its own. We are going to use `systemd` to auto-start this playing this video at each startup. `systemd` is a means for starting various automatic background or forground processes on your Raspberry. To access `systemd`, you need to creat a script and then load that script into `systemctl`.
 
-Cf. [https://www.raspberrypi.org/documentation/linux/usage/systemd.md]()
+Cf. <https://www.raspberrypi.org/documentation/linux/usage/systemd.md>
 
 Create an `appname.service` text file using `nano` or whatever text editor you prefer, containing the following instructions. I use the command `nano appname.service` to create these types of text files directly on my Raspberry, but you can also use `ssh` from another computer if you want to use [VS Code](https://code.visualstudio.com) or whatever code editor you prefer. You can also easily create and access remote text files via the `ssh` extension for VS Code.
 
