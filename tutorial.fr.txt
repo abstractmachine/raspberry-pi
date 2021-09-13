@@ -1,5 +1,7 @@
 Title: Raspberry Pi
 ----
+Cover: pi-labelled.png
+----
 Intro: Une série de tutoriels et de checklists pour la création d'objets et d'installations art/conception/jeu avec des appareils Raspberry Pi.
 ----
 Text:
