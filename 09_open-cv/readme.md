@@ -34,7 +34,7 @@ I have been using the Raspberry Cameras (infrared and standard models) that use 
 - HDMI to CSI
 - [HDMI to CSI](https://www.kubii.fr/convertisseurs-adaptateurs-raspberry/3210-adaptateur-hdmi-vers-csi-camera-raspberry-pi-3272496305359.html) (Kubii)
 - [Auvidea B101](https://auvidea.eu/b101-hdmi-to-csi-2-bridge-15-pin-fpc/)
-- [Raspberry Forum discussing Auvidea setup](https://www.raspberrypi.org/forums/viewtopic.php?t=216903#p1437501)
+- Raspberry Forum discussing Auvidea setup: <https://www.raspberrypi.org/forums/viewtopic.php?t=216903#p1437501>
 - [Raspberry Pi 4: OpenCV with Auvidea B101 HDMI to CSI-2 Bridge on Raspbian 10](https://www.youtube.com/watch?v=2In8TEsvMQM) (this got me close, but remains unstable)
 
 ## Screen
@@ -58,8 +58,8 @@ Download either the Raspberry Pi with Desktop, or the Lite. You can directly dow
 
 - <https://www.raspberrypi.org/software/operating-systems/>
 - This how-to uses the following image from 2021-03-04:
-  - [2021-03-04-raspios-buster-armhf-lite.zip](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-03-25/2021-03-04-raspios-buster-armhf-lite.zip)
-  - [2021-03-04-raspios-buster-armhf-lite.zip.torrent](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-03-25/2021-03-04-raspios-buster-armhf-lite.zip.torrent) (Torrent)
+  - <https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-03-25/2021-03-04-raspios-buster-armhf-lite.zip>
+  - <https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-03-25/2021-03-04-raspios-buster-armhf-lite.zip.torrent> (Torrent)
 
 ## Install onto SD Card
 - [Raspberry Pi Imager](https://www.raspberrypi.org/software/)
